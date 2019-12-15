@@ -27,8 +27,3 @@ def maskify(input)
 end
 
 maskify(input)
-
-
-# "hello".index('e')  
-
-# "hello".each_char {|c| print c, ' ' }
